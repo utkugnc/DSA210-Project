@@ -17,3 +17,6 @@ There are two main questions I aim to investigate:
 
 ### METHOD
 Using the data science methods, data visualization techniques, and statistical knowledge covered in the course DSA210, I will address these main questions, as well as additional questions that may arise during the analysis.
+
+### Update
+In the Project file, you can see jupyter notebook and correlation plots for indices. Report summarizes the foundings on these
