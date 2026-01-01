@@ -24,5 +24,5 @@ In the Project file, you can see jupyter notebook and correlation plots for indi
 # Update 01.01.2026
 In the project file, you can now see jupyter notebook for Machine Learning Methods in mlConcepts.jupyter. Moreover, in the root you can see the final presentation.
 
-###NOTE FOR TA
+### NOTE FOR TA
 You can see the hypothesis you asked for me to create in the final presentation
